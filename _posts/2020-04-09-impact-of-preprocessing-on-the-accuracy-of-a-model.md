@@ -1,6 +1,6 @@
 ---
 layout: post
-published: false
+published: true
 title: Impact of preprocessing on the accuracy of a model
 date: 09/04/2020
 ---
